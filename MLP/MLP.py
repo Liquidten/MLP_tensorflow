@@ -19,7 +19,7 @@ batch_size = 100
 
 n_input = 784
 n_hidden_1 = 256
-n_hidden_2 = 126
+n_hidden_2 = 128
 n_hidden_3 = 64
 n_classes = 10
 n_samples = mnist.train.num_examples
